@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ItemFilter xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
-  <name>RaxxFilter - S4 - Flay, Rip Blood, Fire Aura SPB</name>
+  <name>ExportTest</name>
   <filterIcon>13</filterIcon>
   <filterIconColor>16</filterIconColor>
-  <description>1.4 COF - Edited and optimized for Flay Lich, Rip Blood Warlock, and Fire Aura Spellblade for Season 4 of Last Epoch</description>
+  <description>1.4 Mage Acolyte Customized Raxxfilter</description>
   <lastModifiedInVersion>1.4</lastModifiedInVersion>
   <lootFilterVersion>9</lootFilterVersion>
   <rules>
