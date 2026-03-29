@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ItemFilter xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
   <name>RaxxFilter - S4 - Flay, Rip Blood, Fire Aura SPB</name>
   <filterIcon>13</filterIcon>
@@ -5956,7 +5956,7 @@
         </Condition>
         <Condition i:type="CharacterLevelCondition">
           <minimumLvl>0</minimumLvl>
-          <maximumLvl>79</maximumLvl>
+          <maximumLvl>69</maximumLvl>
         </Condition>
       </conditions>
       <recolor>false</recolor>
@@ -5966,7 +5966,7 @@
       <minLvl_deprecated>0</minLvl_deprecated>
       <maxLvl_deprecated>0</maxLvl_deprecated>
       <emphasized>false</emphasized>
-      <nameOverride>All Uniques - Turns off at 80</nameOverride>
+      <nameOverride>All Uniques - Turns off at 70</nameOverride>
       <SoundId>1</SoundId>
       <MapIconId>0</MapIconId>
       <BeamOverride>false</BeamOverride>
@@ -13751,4 +13751,4 @@
       <Order>0</Order>
     </Rule>
   </rules>
-</ItemFilter> 㭨
+</ItemFilter>
