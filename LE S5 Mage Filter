@@ -4470,7 +4470,7 @@
       </conditions>
       <recolor>true</recolor>
       <color>4</color>
-      <isEnabled>true</isEnabled>
+      <isEnabled>false</isEnabled>
       <levelDependent_deprecated>false</levelDependent_deprecated>
       <minLvl_deprecated>0</minLvl_deprecated>
       <maxLvl_deprecated>0</maxLvl_deprecated>
@@ -11557,7 +11557,7 @@
       <minLvl_deprecated>0</minLvl_deprecated>
       <maxLvl_deprecated>0</maxLvl_deprecated>
       <emphasized>false</emphasized>
-      <nameOverride>Rarest Uniques at LP0 (ADD BUILD SPECIFIC RARE UNIQUES)</nameOverride>
+      <nameOverride>Build Important Uniques at LP0 (ADD BUILD SPECIFIC RARE UNIQUES)</nameOverride>
       <SoundId>1</SoundId>
       <MapIconId>0</MapIconId>
       <BeamOverride>false</BeamOverride>
@@ -12786,7 +12786,7 @@
       <minLvl_deprecated>0</minLvl_deprecated>
       <maxLvl_deprecated>0</maxLvl_deprecated>
       <emphasized>false</emphasized>
-      <nameOverride>Rarest Uniques at LP1 (ADD BUILD SPECIFIC RARE UNIQUES)</nameOverride>
+      <nameOverride>Build Important Uniques at LP1 (ADD BUILD SPECIFIC RARE UNIQUES)</nameOverride>
       <SoundId>1</SoundId>
       <MapIconId>0</MapIconId>
       <BeamOverride>false</BeamOverride>
@@ -14015,7 +14015,7 @@
       <minLvl_deprecated>0</minLvl_deprecated>
       <maxLvl_deprecated>0</maxLvl_deprecated>
       <emphasized>false</emphasized>
-      <nameOverride>Rarest Uniques at LP2 (ADD BUILD SPECIFIC RARE UNIQUES)</nameOverride>
+      <nameOverride>Build Important Uniques at LP2 (ADD BUILD SPECIFIC RARE UNIQUES)</nameOverride>
       <SoundId>1</SoundId>
       <MapIconId>0</MapIconId>
       <BeamOverride>false</BeamOverride>
@@ -24981,7 +24981,7 @@
       </conditions>
       <recolor>false</recolor>
       <color>0</color>
-      <isEnabled>true</isEnabled>
+      <isEnabled>false</isEnabled>
       <levelDependent_deprecated>false</levelDependent_deprecated>
       <minLvl_deprecated>0</minLvl_deprecated>
       <maxLvl_deprecated>0</maxLvl_deprecated>
